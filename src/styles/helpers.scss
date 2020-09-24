@@ -1,0 +1,7 @@
+.disable {
+  filter: grayscale(1);
+  
+  + .item__footer {
+    color: #ffff66;
+  }
+}
